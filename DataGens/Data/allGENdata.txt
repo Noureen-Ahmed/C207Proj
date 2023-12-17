@@ -1067,6 +1067,7 @@ INSERT INTO `Club_DB`.`Sponsor` (`Name`,`Website`,`Event_Name`) VALUES ('Nike','
 INSERT INTO `Club_DB`.`Sponsor` (`Name`,`Website`,`Event_Name`) VALUES ('WE','te.eg','Fifa tournoment');
 INSERT INTO `Club_DB`.`Sponsor` (`Name`,`Website`,`Event_Name`) VALUES ('BanqueMisr','banquemisr.com','New Years Concert');
 INSERT INTO `Club_DB`.`Sponsor` (`Name`,`Website`,`Event_Name`) VALUES ('Watch It','watchit.com','Watch Party');
+INSERT INTO `Club_DB`.`Sponsor` (`Name`,`Website`,`Event_Name`) VALUES ('pepsi','pepsi.com','Ramadan 5on5 Football');
 INSERT INTO `Club_DB`.`Catering` (`Name`,`Management_Name`,`NumOfBranches`,`Type`) VALUES ('Azure','Catering',2,'Restaurant');
 INSERT INTO `Club_DB`.`Catering` (`Name`,`Management_Name`,`NumOfBranches`,`Type`) VALUES ('Sail In Sea','Catering',1,'Restaurant');
 INSERT INTO `Club_DB`.`Catering` (`Name`,`Management_Name`,`NumOfBranches`,`Type`) VALUES ('Dominos','Catering',1,'Restaurant');
